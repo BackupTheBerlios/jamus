@@ -1,0 +1,13 @@
+<Items>
+	<Item id="1" name="Tisch" gender="male">
+		<Description>Der Tisch besteht aus Eichenholzen. Auf ihm steht eine Kerze.</Description>
+	</Item>
+	<Item id="2" name="Kerze" gender="female">
+		<Description>Die Kerze brennt.</Description>
+	</Item>
+	<Item id="3" name="Stahlschwert" type="weapon">
+		<Shortname>schwert</Shortname>
+		<Shortname>waffe</Shortname>
+		<Description>Ein Schwert aus feinstem Stahl.</Description>
+	</Item>
+</Items>

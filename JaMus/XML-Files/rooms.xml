@@ -1,0 +1,31 @@
+<Rooms>
+	<Room id="1">
+		<Description>Dies ist ein Raum.</Description>
+		<Exits>
+			<North>2</North>
+			<South>3</South>
+		</Exits>
+	</Room>
+  <Room id="2">
+		<Description>Dies ist der noerdliche Raum. Hier steht ein Tisch.</Description>
+		<Exits>
+			<South>1</South>
+		</Exits>
+		<Items>
+			<Item id="1"/>
+			<Item id="2"/>
+		</Items>
+	</Room>
+  <Room id="3">
+		<Description>Dies ist der suedliche Raum.</Description>
+		<Exits>
+			<North>1</North>
+		</Exits>
+		<Items>
+			<Item id="3"/>
+		</Items>
+		<MOBs>
+			<MOB id="1"/>
+		</MOBs>
+	</Room>
+</Rooms>
